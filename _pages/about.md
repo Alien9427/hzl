@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an associate professor at the BRAIN LAB <a href='https://nwpu-brainlab.gitee.io/index_en.html'> of Northwestern Polytechnical University, Xi'an, China.
+I am currently an associate professor at the <a href='https://nwpu-brainlab.gitee.io/index_en.html'> BRAIN LAB </a> of Northwestern Polytechnical University, Xi'an, China.
 
-My research interest includes Synthetic Aperture Radar (SAR) image interpretation, eXplainable Artificial Intelligence (XAI), and knowledge-guided data science. I have published more than 20 papers at the top journals and conferences with total <a href='https://scholar.google.de/citations?user=oqkhjW0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+My research interest includes Synthetic Aperture Radar (SAR) image interpretation, eXplainable Artificial Intelligence (XAI), and knowledge-guided data science. I have published more than 20 papers at the top journals and conferences with total <a href='https://scholar.google.de/citations?user=oqkhjW0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
