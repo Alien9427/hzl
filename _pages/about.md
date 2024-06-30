@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently an associate professor at the <a href='https://nwpu-brainlab.gitee.io/index_en.html'> BRAIN LAB </a> of Northwestern Polytechnical University, Xi'an, China. I graduated from Beijing Normal University with a Bachelor's degree in 2015, and graduated from Chinese Academy of Sciences with a Ph.D degree in 2020. During 2018-2019, I was a visiting scholar at German Aerospace Center (DLR), co-supervised by Prof. Mihai Datcu. Since Nov. 2020, I have been a faculty member of school of automation, NPU. 
+Hi! I am currently an associate professor at the <a href='https://nwpu-brainlab.gitee.io/index_en.html'> BRAIN LAB </a> of Northwestern Polytechnical University, Xi'an, China. I graduated from Beijing Normal University with a Bachelor's degree in 2015, and graduated from Chinese Academy of Sciences with a Ph.D degree in 2020. During 2018-2019, I was a visiting Ph.D student at German Aerospace Center (DLR), co-supervised by Prof. Mihai Datcu. Since Nov. 2020, I have been a Postdoc (collaborated with Prof. Junwei Han) and a faculty member in NPU. 
 
-My research interest includes Synthetic Aperture Radar (SAR) image interpretation, eXplainable Artificial Intelligence (XAI), and knowledge-guided data science. I have published more than 20 papers at the top journals and conferences with total <a href='https://scholar.google.de/citations?user=oqkhjW0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes Synthetic Aperture Radar (SAR) image interpretation, eXplainable Artificial Intelligence (XAI), and knowledge-guided data science. I have published more than 20 papers at the top journals and conferences with total <a href='https://scholar.google.com/citations?user=oqkhjW0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAlien9427%2Fhzl%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 
 
 # 🔥 News
 - *2024.07*: &nbsp; We organized a community contribution session in IGARSS-2024, entitled "".
-- *2022.02*: &nbsp; . 
+- *2024.03*: &nbsp; Congraduations to Zishi and Chong 
+- *2021.06*: &nbsp; 🥳 I . 
 
 # 📝 Selected Publications 
 
