@@ -25,9 +25,9 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 
 # 🔥 News
 - *2024.07*: &nbsp; 📒 We organized a community contribution session in IGARSS-2024, “Explainable, Physics-aware, and Trustworthy AI for SAR: Towards Digital Twin Earth”.
-- *2024.03*: &nbsp; 🧑🏻‍🎓 Congratulations to Zishi Wang and Chong Wu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
+<!-- - *2024.03*: &nbsp; 🧑🏻‍🎓 Congratulations to Zishi Wang and Chong Wu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han) -->
 - *2023.07*: &nbsp; 📒 We organized a community contribution session in IGARSS-2023, “Explainable, Physics-aware, and Trustworthy AI for SAR: Towards Digital Twin Earth”.
-- *2023.03*: &nbsp; 👩🏻‍🎓 Congratulations to Ying Liu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
+<!-- - *2023.03*: &nbsp; 👩🏻‍🎓 Congratulations to Ying Liu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han) -->
 - *2021.06*: &nbsp; I .
 
 # 📝 Selected Publications 
@@ -111,17 +111,18 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.10 - 2019.09*, Visiting Ph.D Student, German Aerospace Center. 
+- *2015.09 - 2020.09*, Ph.D Student, University of Chinese Academy of Sciences. 
+- *2011.09 - 2015.06*, Bechelor, Beijing Normal University.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
