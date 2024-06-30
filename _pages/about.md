@@ -23,8 +23,8 @@ My research interest includes Synthetic Aperture Radar (SAR) image interpretatio
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 We organized a community contribution session in IGARSS-2024, entitled "".
-- *2022.02*: &nbsp;🎉🎉 . 
+- *2024.07*: &nbsp; We organized a community contribution session in IGARSS-2024, entitled "".
+- *2022.02*: &nbsp; . 
 
 # 📝 Selected Publications 
 
@@ -38,7 +38,7 @@ My research interest includes Synthetic Aperture Radar (SAR) image interpretatio
 Mihai Datcu, **Zhongling Huang***, Andrei Anghel, Juanping Zhao, Remus Cacoveanu
 
 [**Project**](https://scholar.google.de/citations?view_op=view_citation&hl=zh-CN&user=oqkhjW0AAAAJ&citation_for_view=oqkhjW0AAAAJ:8k81kl-MbHgC) <strong><span class='show_paper_citations' data='oqkhjW0AAAAJ:8k81kl-MbHgC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- . 
 </div>
 </div>
 
