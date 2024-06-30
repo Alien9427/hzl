@@ -25,14 +25,14 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 
 # 🔥 News
 - *2024.07*: &nbsp; 📒 We organized a community contribution session in IGARSS-2024, “Explainable, Physics-aware, and Trustworthy AI for SAR: Towards Digital Twin Earth”.
-- *2024.03*: &nbsp; 🥳 Congratulations to Zishi Wang and Chong Wu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
-- *2023.12*: &nbsp; 
-- *2023.03*: &nbsp; 🥳 Congratulations to Ying Liu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
+- *2024.03*: &nbsp; 🧑🏻‍🎓 Congratulations to Zishi Wang and Chong Wu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
+- *2023.07*: &nbsp; 📒 We organized a community contribution session in IGARSS-2023, “Explainable, Physics-aware, and Trustworthy AI for SAR: Towards Digital Twin Earth”.
+- *2023.03*: &nbsp; 👩🏻‍🎓 Congratulations to Ying Liu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
 - *2021.06*: &nbsp; I .
 
 # 📝 Selected Publications 
 
-## 🟣 Reviews
+<!-- ## 🟣 Reviews -->
 
 <!-- 论文：GRSM-XAI -->
 
@@ -60,7 +60,7 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 </div>
 </div> -->
 
-## 🟣 Reviews
+<!-- ## 🟣 Physically Explainable AI for SAR -->
 
 <!-- 论文：PIHA -->
 
