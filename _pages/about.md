@@ -40,11 +40,27 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 <div class='paper-box-text' markdown="1"> -->
 
 
-- ``ISPRS JPRS 2024`` [Physics Inspired Hybrid Attention for SAR Target Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374), **Zhongling Huang**, Chong Wu, Xiwen Yao*, Zhicheng Zhao, Xiankai Huang, Junwei Han
+- ``ISPRS JPRS 2024`` [Physics Inspired Hybrid Attention for SAR Target Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374), **Zhongling Huang**, Chong Wu, Xiwen Yao*, Zhicheng Zhao, Xiankai Huang, Junwei Han. [Code&Data](https://github.com/XAI4SAR/PIHA)
 
-- ``IEEE GRSM 2023`` [Explainable, Physics-aware, Trustworthy Artificial Intelligence: A Paradigm Shift for Synthetic Aperture Radar](https://ieeexplore.ieee.org/abstract/document/10035918/), Mihai Datcu, **Zhongling Huang***, Andrei Anghel, Juanping Zhao, Remus Cacoveanu
+-  ``Remote Sensing 2023`` [SAR-HUB: Pre-training, Fine-tuning, and Explaining](https://www.mdpi.com/2072-4292/15/23/5534), Haodong Yang, Xinyue Kang, Long Liu, Yujiang Liu, **Zhongling Huang***. [Code](https://github.com/XAI4SAR/SAR-HUB)
 
-- ``JR 2022`` [Progress and perspective on physically explainable deep learning for synthetic aperture radar image interpretation](https://www.researchgate.net/publication/359424199_Progress_and_Perspective_on_Physically_Explainable_Deep_Learning_for_Synthetic_Aperture_Radar_Image_Interpretation), [中文版](https://radars.ac.cn/article/doi/10.12000/JR21165?viewType=HTML), **Zhongling Huang***, Xiwen Yao, Junwei Han
+- ``IEEE TGRS 2023`` [Uncertainty Exploration: Toward Explainable SAR Target Detection](https://ieeexplore.ieee.org/document/10050159), **Zhongling Huang**, Ying Liu, Xiwen Yao*, Jun Ren, Junwei Han. [Code](https://github.com/XAI4SAR/XDet)
+
+- ``REVIEW`` ``IEEE GRSM 2023`` [Explainable, Physics-aware, Trustworthy Artificial Intelligence: A Paradigm Shift for Synthetic Aperture Radar](https://ieeexplore.ieee.org/abstract/document/10035918/), Mihai Datcu, **Zhongling Huang***, Andrei Anghel, Juanping Zhao, Remus Cacoveanu
+
+- ``ISPRS JPRS 2022`` [Physically explainable CNN for SAR image classification](https://www.sciencedirect.com/science/article/pii/S0924271622001472), **Zhongling Huang**, Xiwen Yao*, Ying Liu, Corneliu Octavian Dumitru, Mihai Datcu, Junwei Han. [Code/Data](https://github.com/Alien9427/XAI4SAR-PGIL)
+
+- ``REVIEW`` ``JR 2022`` [Progress and perspective on physically explainable deep learning for synthetic aperture radar image interpretation](https://www.researchgate.net/publication/359424199_Progress_and_Perspective_on_Physically_Explainable_Deep_Learning_for_Synthetic_Aperture_Radar_Image_Interpretation), [中文版](https://radars.ac.cn/article/doi/10.12000/JR21165?viewType=HTML), **Zhongling Huang***, Xiwen Yao, Junwei Han
+
+- ``IEEE TGRS 2020`` [HDEC-TFA: An unsupervised learning approach for discovering physical scattering properties of single-polarized SAR image](https://ieeexplore.ieee.org/abstract/document/9169671/), **Zhongling Huang***, Mihai Datcu*, Zongxu Pan, Xiaolan Qiu, Bin Lei
+
+- ``ISPRS JPRS 2020`` [Deep SAR-Net: Learning objects from signals](https://www.sciencedirect.com/science/article/pii/S0924271620300162), **Zhongling Huang***,  Mihai Datcu*, Zongxu Pan, Bin Lei. [Code](https://github.com/Alien9427/DSN)
+
+- ``IEEE TGRS 2020`` [What, where, and how to transfer in SAR target recognition based on deep CNNs](https://ieeexplore.ieee.org/abstract/document/8907833/), **Zhongling Huang**, Zongxu Pan*, Bin Lei
+
+- ``IEEE GRSL 2020`` [Classification of large-scale high-resolution SAR images with deep transfer learning](https://ieeexplore.ieee.org/abstract/document/8966281/), **Zhongling Huang**, Corneliu Octavian Dumitru, Zongxu Pan, Bin Lei, Mihai Datcu
+
+- ``Remote Sensing 2017`` [Transfer learning with deep convolutional neural network for SAR target classification with limited labeled data](https://ieeexplore.ieee.org/abstract/document/8966281/), **Zhongling Huang**, Zongxu Pan, Bin Lei*
 
 <!-- [**Project**](https://scholar.google.de/citations?view_op=view_citation&hl=zh-CN&user=oqkhjW0AAAAJ&citation_for_view=oqkhjW0AAAAJ:8k81kl-MbHgC) <strong><span class='show_paper_citations' data='oqkhjW0AAAAJ:8k81kl-MbHgC'></span></strong>
 - . 
@@ -67,7 +83,7 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 
 <!-- 论文：PIHA -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-JPRS-2024</div><img src='images/2024ISPRS-PIHA.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS-JPRS-2024</div><img src='images/2024ISPRS-PIHA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physics Inspired Hybrid Attention for SAR Target Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374)
@@ -77,11 +93,11 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
 <!-- 论文：BDD -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS-2023</div><img src='images/2023TGRS-BDD.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS-2023</div><img src='images/2023TGRS-BDD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uncertainty Exploration: Toward Explainable SAR Target Detection](https://ieeexplore.ieee.org/document/10050159)
@@ -93,7 +109,7 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
