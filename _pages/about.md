@@ -21,7 +21,7 @@ Hi! I am currently an associate professor at the <a href='https://nwpu-brainlab.
 
 My research interest includes Synthetic Aperture Radar (SAR) image interpretation, eXplainable Artificial Intelligence (XAI), and knowledge-guided data science. I have published more than 20 papers at the top journals and conferences with total <a href='https://scholar.google.com/citations?user=oqkhjW0AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAlien9427%2Fhzl%40google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-
+<!-- https://cdn.jsdelivr.net/gh/Alien9427/hzl@google-scholar-stats/gs_data_shieldsio.json -->
 
 # 🔥 News
 - *2024.07*: &nbsp; We organized a community contribution session in IGARSS-2024, entitled "".
