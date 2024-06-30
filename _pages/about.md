@@ -39,9 +39,12 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSM-2023</div><img src='images/2023GRSM-XAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+
+- ``ISPRS JPRS 2024`` [Physics Inspired Hybrid Attention for SAR Target Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374), **Zhongling Huang**, Chong Wu, Xiwen Yao*, Zhicheng Zhao, Xiankai Huang, Junwei Han
+
 - ``IEEE GRSM 2023`` [Explainable, Physics-aware, Trustworthy Artificial Intelligence: A Paradigm Shift for Synthetic Aperture Radar](https://ieeexplore.ieee.org/abstract/document/10035918/), Mihai Datcu, **Zhongling Huang***, Andrei Anghel, Juanping Zhao, Remus Cacoveanu
 
-- ``JR 2022`` [Progress and perspective on physically explainable deep learning for synthetic aperture radar image interpretation](https://www.researchgate.net/publication/359424199_Progress_and_Perspective_on_Physically_Explainable_Deep_Learning_for_Synthetic_Aperture_Radar_Image_Interpretation)[中文版](https://radars.ac.cn/article/doi/10.12000/JR21165?viewType=HTML)
+- ``JR 2022`` [Progress and perspective on physically explainable deep learning for synthetic aperture radar image interpretation](https://www.researchgate.net/publication/359424199_Progress_and_Perspective_on_Physically_Explainable_Deep_Learning_for_Synthetic_Aperture_Radar_Image_Interpretation), [中文版](https://radars.ac.cn/article/doi/10.12000/JR21165?viewType=HTML), **Zhongling Huang***, Xiwen Yao, Junwei Han
 
 <!-- [**Project**](https://scholar.google.de/citations?view_op=view_citation&hl=zh-CN&user=oqkhjW0AAAAJ&citation_for_view=oqkhjW0AAAAJ:8k81kl-MbHgC) <strong><span class='show_paper_citations' data='oqkhjW0AAAAJ:8k81kl-MbHgC'></span></strong>
 - . 
