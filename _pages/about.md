@@ -24,10 +24,15 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 <!-- https://cdn.jsdelivr.net/gh/Alien9427/hzl@google-scholar-stats/gs_data_shieldsio.json -->
 
 # 🔥 News
+- *2025.08*: &nbsp; 📒 We organized a community contribution session in IGARSS-2025 with Prof. Mihai Datcu. "Physics Aware AI Models for SAR Data Generation and Understanding"
+- *2025.07*: &nbsp; 🥳 One paper has been accepted by TCSVT. Congratuations to Long Liu!
+- *2025.06*: &nbsp; 🥳 One paper has been accepted by ICCV2025 <a href='https://arxiv.org/abs/2503.02242'> $\mathbf{\Phi}$-GAN: Physics-Inspired GAN for Generating SAR Images Under Limited Data </a>! Congratuations to Xidan Zhang and Yihan Zhuang (Equal Contribution)! It is also our first paper accepted by Computer Vision Top Conferences!
+- *2025.03*: &nbsp; 🧑🏻‍🎓 Congratulations to Haodong Yang on graduating with a Master's Degree and continuing his Ph.D journal at NPU. He is also my first Master student. Happy for him!
+- *2024.09*: &nbsp; 🥳 One paper has been accepted by GRSM!
 - *2024.07*: &nbsp; 📒 We organized a community contribution session in IGARSS-2024, “Explainable, Physics-aware, and Trustworthy AI for SAR: Towards Digital Twin Earth”.
-<!-- - *2024.03*: &nbsp; 🧑🏻‍🎓 Congratulations to Zishi Wang and Chong Wu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han) -->
+- *2024.03*: &nbsp; 🧑🏻‍🎓 Congratulations to Zishi Wang and Chong Wu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
 - *2023.07*: &nbsp; 📒 We organized a community contribution session in IGARSS-2023, “Physics Informed Artificial Intelligence for Synthetic Aperture Radar Applications”.
-<!-- - *2023.03*: &nbsp; 👩🏻‍🎓 Congratulations to Ying Liu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han) -->
+- *2023.03*: &nbsp; 👩🏻‍🎓 Congratulations to Ying Liu on graduating with a Master's degree. (Co-supervised with Prof. Junwei Han)
 - *2022.07*: &nbsp; 📒 We organized an invited special session in IGARSS-2022, “Physics Aware Machine Learning for Synthetic Aperture Radar Applications”.
 - *2021.07*: &nbsp; 📒 We organized an invited special session in IGARSS-2021, “DEEP Insight SAR”.
 <!-- - *2021.06*: &nbsp; I . -->
