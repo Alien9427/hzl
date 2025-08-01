@@ -46,25 +46,41 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSM-2023</div><img src='images/2023GRSM-XAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+## Review Papers
+
+- ``IEEE GRSM`` [Generative artificial intelligence meets synthetic aperture radar: A survey](https://ieeexplore.ieee.org/abstract/document/10752552), **Zhongling Huang**, Xidan Zhang, Zuqian Tang, Feng Xu, Mihai Datcu, Junwei Han
+
+- ``REVIEW`` ``IEEE GRSM 2023`` [Explainable, Physics-aware, Trustworthy Artificial Intelligence: A Paradigm Shift for Synthetic Aperture Radar](https://ieeexplore.ieee.org/abstract/document/10035918/), Mihai Datcu, **Zhongling Huang(Corr)**, Andrei Anghel, Juanping Zhao, Remus Cacoveanu
+
+- ``REVIEW`` ``JR 2022`` [Progress and perspective on physically explainable deep learning for synthetic aperture radar image interpretation](https://www.researchgate.net/publication/359424199_Progress_and_Perspective_on_Physically_Explainable_Deep_Learning_for_Synthetic_Aperture_Radar_Image_Interpretation), [中文版](https://radars.ac.cn/article/doi/10.12000/JR21165?viewType=HTML), **Zhongling Huang***, Xiwen Yao, Junwei Han
+
+## Physics Guided SAR Image Perception
+
 - ``IEEE TCSVT 2025`` [Physics Guided Detector for SAR Airplanes](https://ieeexplore.ieee.org/abstract/document/11079686), **Zhongling Huang**, Long Liu, Shuxin Yang, Zhirui Wang, Gong Cheng, Junwei Han [Code](https://github.com/XAI4SAR/PGD)
 
-- ``ICCV 2025`` []
+- ``Arxiv 2024`` [PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model](https://arxiv.org/abs/2412.12737), Yuqing Wang, **Zhongling Huang(Co-Corr)**, Shuxin Yang, Hao Tang, Xiaolan Qiu, Junwei Han, Dingwen Zhang
 
 - ``ISPRS JPRS 2024`` [Physics Inspired Hybrid Attention for SAR Target Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374), **Zhongling Huang**, Chong Wu, Xiwen Yao*, Zhicheng Zhao, Xiankai Huang, Junwei Han. [Code&Data](https://github.com/XAI4SAR/PIHA)
 
--  ``Remote Sensing 2023`` [SAR-HUB: Pre-training, Fine-tuning, and Explaining](https://www.mdpi.com/2072-4292/15/23/5534), Haodong Yang, Xinyue Kang, Long Liu, Yujiang Liu, **Zhongling Huang***. [Code](https://github.com/XAI4SAR/SAR-HUB)
-
-- ``IEEE TGRS 2023`` [Uncertainty Exploration: Toward Explainable SAR Target Detection](https://ieeexplore.ieee.org/document/10050159), **Zhongling Huang**, Ying Liu, Xiwen Yao*, Jun Ren, Junwei Han. [Code](https://github.com/XAI4SAR/XDet)
-
-- ``REVIEW`` ``IEEE GRSM 2023`` [Explainable, Physics-aware, Trustworthy Artificial Intelligence: A Paradigm Shift for Synthetic Aperture Radar](https://ieeexplore.ieee.org/abstract/document/10035918/), Mihai Datcu, **Zhongling Huang***, Andrei Anghel, Juanping Zhao, Remus Cacoveanu
-
 - ``ISPRS JPRS 2022`` [Physically explainable CNN for SAR image classification](https://www.sciencedirect.com/science/article/pii/S0924271622001472), **Zhongling Huang**, Xiwen Yao*, Ying Liu, Corneliu Octavian Dumitru, Mihai Datcu, Junwei Han. [Code/Data](https://github.com/Alien9427/XAI4SAR-PGIL)
-
-- ``REVIEW`` ``JR 2022`` [Progress and perspective on physically explainable deep learning for synthetic aperture radar image interpretation](https://www.researchgate.net/publication/359424199_Progress_and_Perspective_on_Physically_Explainable_Deep_Learning_for_Synthetic_Aperture_Radar_Image_Interpretation), [中文版](https://radars.ac.cn/article/doi/10.12000/JR21165?viewType=HTML), **Zhongling Huang***, Xiwen Yao, Junwei Han
 
 - ``IEEE TGRS 2020`` [HDEC-TFA: An unsupervised learning approach for discovering physical scattering properties of single-polarized SAR image](https://ieeexplore.ieee.org/abstract/document/9169671/), **Zhongling Huang***, Mihai Datcu*, Zongxu Pan, Xiaolan Qiu, Bin Lei
 
 - ``ISPRS JPRS 2020`` [Deep SAR-Net: Learning objects from signals](https://www.sciencedirect.com/science/article/pii/S0924271620300162), **Zhongling Huang***,  Mihai Datcu*, Zongxu Pan, Bin Lei. [Code](https://github.com/Alien9427/DSN)
+
+## Physics Inspired SAR Image Generation
+
+- ``ICCV 2025`` [$\mathbf{\Phi}$-GAN: Physics-Inspired GAN for Generating SAR Images Under Limited Data](https://arxiv.org/abs/2503.02242), X Zhang, Y Zhuang, Q Guo, H Yang, X Qian, G Cheng, J Han, **Z Huang(Corr)**
+
+- ``Arxiv 2024`` [X-fake: Juggling utility evaluation and explanation of simulated sar images](https://arxiv.org/abs/2407.19436), **Zhongling Huang**, Yihan Zhuang, Zipei Zhong, Feng Xu, Gong Cheng, Junwei Han
+
+## Towards Trustworthy AI for SAR
+
+-  ``IEEE TGRS 2025`` [Cross-Modality Domain Adaptation Based on Semantic Graph Learning: From Optical to SAR Images](), X Zhang, **Z Huang(Co-Corr)**, X Yao, X Feng, G Cheng, J Han
+
+- ``IEEE TGRS 2023`` [Uncertainty Exploration: Toward Explainable SAR Target Detection](https://ieeexplore.ieee.org/document/10050159), **Zhongling Huang**, Ying Liu, Xiwen Yao*, Jun Ren, Junwei Han. [Code](https://github.com/XAI4SAR/XDet)
+
+-  ``Remote Sensing 2023`` [SAR-HUB: Pre-training, Fine-tuning, and Explaining](https://www.mdpi.com/2072-4292/15/23/5534), Haodong Yang, Xinyue Kang, Long Liu, Yujiang Liu, **Zhongling Huang***. [Code](https://github.com/XAI4SAR/SAR-HUB)
 
 - ``IEEE TGRS 2020`` [What, where, and how to transfer in SAR target recognition based on deep CNNs](https://ieeexplore.ieee.org/abstract/document/8907833/), **Zhongling Huang**, Zongxu Pan*, Bin Lei
 
