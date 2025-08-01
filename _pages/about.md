@@ -46,7 +46,9 @@ My research interests include Synthetic Aperture Radar (SAR) image interpretatio
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSM-2023</div><img src='images/2023GRSM-XAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- ``IEEE TCSVT 2025`` [Physics Guided Detector for SAR Airplanes](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374), **Zhongling Huang**, Chong Wu, Xiwen Yao*, Zhicheng Zhao, Xiankai Huang, Junwei Han. [Code&Data](https://github.com/XAI4SAR/PIHA)
+- ``IEEE TCSVT 2025`` [Physics Guided Detector for SAR Airplanes](https://ieeexplore.ieee.org/abstract/document/11079686), **Zhongling Huang**, Long Liu, Shuxin Yang, Zhirui Wang, Gong Cheng, Junwei Han [Code](https://github.com/XAI4SAR/PGD)
+
+- ``ICCV 2025`` []
 
 - ``ISPRS JPRS 2024`` [Physics Inspired Hybrid Attention for SAR Target Recognition](https://www.sciencedirect.com/science/article/abs/pii/S0924271623003374), **Zhongling Huang**, Chong Wu, Xiwen Yao*, Zhicheng Zhao, Xiankai Huang, Junwei Han. [Code&Data](https://github.com/XAI4SAR/PIHA)
 
